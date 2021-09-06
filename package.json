@@ -1,0 +1,16 @@
+{
+  "name": "tuos-mongoose",
+  "version": "1.0.0",
+  "description": "Tuos mongoose plugin",
+  "main": "index.js",
+  "repository": "https://github.com/eru123/tuos-mongoose",
+  "author": "eru123 <yeoligoakino@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify-plugin": "^3.0.0",
+    "mongoose": "^6.0.4",
+    "tuos-tera": "^1.0.4"
+  }
+}
