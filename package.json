@@ -11,6 +11,7 @@
     "dotenv": "^10.0.0",
     "fastify-plugin": "^3.0.0",
     "mongoose": "^6.0.4",
-    "tuos-tera": "^1.0.4"
+    "mongoose-paginate-v2": "^1.4.2",
+    "tuos-tera": "^1.0.6"
   }
 }
