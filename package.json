@@ -1,6 +1,6 @@
 {
   "name": "tuos-mongoose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tuos mongoose plugin",
   "main": "index.js",
   "repository": "https://github.com/eru123/tuos-mongoose",
