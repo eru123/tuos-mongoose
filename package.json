@@ -1,6 +1,6 @@
 {
   "name": "tuos-mongoose",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tuos mongoose plugin",
   "main": "index.js",
   "repository": "https://github.com/eru123/tuos-mongoose",
@@ -8,9 +8,8 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
-    "fastify-plugin": "^3.0.0",
-    "mongoose": "^6.0.5",
+    "mongoose": "^6.0.4",
     "mongoose-paginate-v2": "^1.4.2",
-    "tuos-tera": "^1.0.7"
+    "tuos-tera": "^1.0.6"
   }
 }
