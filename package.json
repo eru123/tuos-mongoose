@@ -1,6 +1,6 @@
 {
   "name": "tuos-mongoose",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tuos mongoose plugin",
   "main": "index.js",
   "repository": "https://github.com/eru123/tuos-mongoose",
@@ -10,6 +10,6 @@
   "dependencies": {
     "mongoose": "^6.0.4",
     "mongoose-paginate-v2": "^1.4.2",
-    "tuos-tera": "^1.0.6"
+    "tuos-tera": "^1.0.7"
   }
 }
